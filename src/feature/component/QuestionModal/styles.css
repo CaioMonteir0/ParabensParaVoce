@@ -1,0 +1,10 @@
+.modal{
+    display: block;
+}
+
+.modal-content{
+    
+   transform: translateY(100%);
+    
+   
+}
